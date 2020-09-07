@@ -1,5 +1,6 @@
 {
   "ExpandedNodes": [
+    "",
     "\\assets",
     "\\assets\\css",
     "\\images",
@@ -7,5 +8,6 @@
     "\\images\\gallery\\fulls",
     "\\images\\gallery\\thumbs"
   ],
+  "SelectedNode": "\\images\\gallery\\thumbs",
   "PreviewInSolutionExplorer": false
 }
