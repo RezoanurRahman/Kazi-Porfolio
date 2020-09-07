@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\images"
+    "\\assets",
+    "\\assets\\css",
+    "\\images",
+    "\\images\\gallery",
+    "\\images\\gallery\\fulls",
+    "\\images\\gallery\\thumbs"
   ],
-  "SelectedNode": "\\images\\pic03.jpg",
   "PreviewInSolutionExplorer": false
 }
